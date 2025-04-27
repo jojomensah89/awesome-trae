@@ -53,8 +53,6 @@ Join our community discussions or visit the Trae documentation for discussions, 
 
 ## Community Resources
 
-- [awesome-trae-rules](https://github.com/yourusername/awesome-trae-rules) - A complementary collection of Trae rules and guidelines
-
 ## Community Prompts
 
 This repository includes a collection of community-contributed prompts that enhance Trae's capabilities. Each contributor has their own directory under `memories/` to maintain organization.
