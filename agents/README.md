@@ -14,6 +14,7 @@ Each subdirectory represents a different custom agent with:
 - `code-reviewer` - An agent specialized in reviewing code, finding bugs, and suggesting improvements
 - `fullstack-builder` - An agent designed to build complete fullstack applications
 - `refactoring-expert` - An agent focused on refactoring and improving existing codebases
+- `performance-accessibility-expert` - An agent specialized in performance optimization, accessibility compliance, and security best practices
 
 ## Creating Your Own Agent
 
