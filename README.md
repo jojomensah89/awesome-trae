@@ -4,9 +4,15 @@ A curated hub of resources, tips, and community-driven content for Trae - a powe
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Repository Structure
+
+- `memories/` - Example memory prompts for Trae
+- `agents/` - Custom agent configurations with prompts and MCP recommendations
+
 ## Contents
 
 - [Awesome Trae](#awesome-trae)
+  - [Repository Structure](#repository-structure)
   - [Contents](#contents)
   - [Useful Links](#useful-links)
   - [FAQ](#faq)
